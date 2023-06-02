@@ -1,0 +1,66 @@
+/* .container {
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    width: 90%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.slideBox {
+    height: 350px;
+    width: 100%;
+    display: flex;
+}
+
+.title {
+    width: 100%;
+    height: 50px;
+    font-size: 2rem;
+    font-family: 'Poppins';
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider {
+    width: 100%;
+}
+
+.photo {
+    width: 70%;
+    height: 100%;
+    background-image: url('../../assets/local.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.textBox {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.textBoxTitle {
+    font-size: 2rem;
+    font-family: 'Poppins';
+    font-weight: 900;
+    text-align: center;
+}
+
+.textBoxAdres {
+    font-size: 1rem;
+    font-family: 'Poppins';
+    font-weight: 600;
+    text-align: center;
+} */
